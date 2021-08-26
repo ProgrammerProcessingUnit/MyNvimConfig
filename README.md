@@ -25,3 +25,11 @@ and paste it in your vimrc file of init.vim file.
 4) Type the command :PlugInstall in your vim or neovim. 
 
 5) Vim-Plug will show some messages of installation. After everything is complete, Restart vim or neovim. Then see the magic.
+
+
+
+
+# Configuration :-
+
+  I am always a big fan of the atom's one dark theme. Whatever text editor I use, I always install atom's one dark theme. So by default I have configured vim to use atom's one dark theme by default. But it has many different themes installed. Feel free to experiment everything until you are comfortable.
+  
