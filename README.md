@@ -43,3 +43,12 @@ and paste it in your vimrc file of init.vim file.
 
   I am always a big fan of the atom's one dark theme. Whatever text editor I use, I always install atom's one dark theme. So by default I have configured vim to use atom's one dark theme by default. But it has many different themes installed. Feel free to experiment everything until you are comfortable.
   
+# Features :- 
+
+
+1) Prest \t at normal mode to open NERDTree.
+2) Ctrl+c , Ctrl+v , Ctrl+x, Ctrl+y works like any other text editor!
+3) You can change buffers by pressing ctrl + left(or)right.
+4) type :terminal in command line to open up the terminal
+5) press \b to open the list of variables and functions in your program in a new tab.
+6) and many more..
