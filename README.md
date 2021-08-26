@@ -2,6 +2,16 @@
 This is the vim config that I use for my workflow. It can also used for neovim
 
 
+Converting this :- ![Screenshot_2021-08-26_12-42-24](https://user-images.githubusercontent.com/89535840/130918598-f57be5f2-7a91-4112-af12-dd00f3931bd1.png)
+
+
+To this :- 
+
+![Screenshot_2021-08-26_12-44-35](https://user-images.githubusercontent.com/89535840/130918638-1d0137da-a30e-4aa0-9cdb-4f70810664c7.png)
+
+
+
+
 Note that these configurations needs atleast vim version 8.0.0(or greater) or Neovim version 0.5.0 (or greater).
 
 It took me so long to configure these in my neovim. I don't want this to happen to you. Vim is so powerful and using these configurations will surely make it even more powerful.
